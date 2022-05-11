@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my Solutions Architect Certificate(AWS)
 - 🌱 I’m currently learning TypeScript and AWS.
 - 👯 I’m looking to collaborate on open source projects!
-- 🥅 2021 Goals: Contribute more to Open Source projects, get my AWS Certificate.
+- 🥅 2022 Goals: Contribute more to Open Source projects, get my AWS Certificate.
 - ⚡ Fun fact: I love to play video games, watch anime and lift weights! :D
 
 ### Connect with me:

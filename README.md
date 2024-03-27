@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on developing AI applications! 
 - 🌱 I’m currently learning how to implement AI into my projects and AWS!
 - 👯 I’m looking to collaborate on open source projects!
-- 🥅 2023 Goals: Contribute more to Open Source projects, learn more about AI and OpenAI's API.
+- 🥅 2024 Goals: Contribute more to Open Source projects, learn more about AI.
 - ⚡ Fun fact: I love to play video games, watch anime and lift weights! :D
 
 ### Connect with me:

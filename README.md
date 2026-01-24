@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on developing AI applications! 
 - 🌱 I’m currently learning how to implement AI into my projects, as well as learning Machine Learning using Python and Scikit-learn!
 - 👯 I’m looking to collaborate on open source projects!
-- 🥅 2024 Goals: Contribute more to Open Source projects, learn more about AI.
+- 🥅 2026 Goals: Contribute more to Open Source projects, learn more about AI.
 - ⚡ Fun fact: I love to play video games, watch anime and lift weights! :D
 
 ### Connect with me:
